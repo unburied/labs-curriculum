@@ -1,6 +1,6 @@
 # Sprint Challenge: Sprint 6
 
-**This is very similar to sprint 1, but your answers should focus on features from release 2**
+**This is very similar to sprint 2, but your answers should focus on features from release 2**
 
 
 
