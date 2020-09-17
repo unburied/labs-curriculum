@@ -2,8 +2,8 @@
 
 ## Objectives
 
-- Student demonstrates they can provide useful feedback to their peers.
-- Student can respond productively to critical feedback from their peers and articulate its contribution to their professional development.
+- Student demonstrates they have grown both technically and professionally
+- Student can reflect on their learnings
 
 On the job, you will be responsible for giving feedback to your peers. Here are some what some hiring managers said about feedback.
 - "We're looking for candidates that are receptive to feedback during the interview process (like if they get stuck on a whiteboard question)". "We're looking for candidates that are excited to learn, willing/able to learn from other engineers." "During the interview, we try pushing back on something they did. They should be very open to feedback."
