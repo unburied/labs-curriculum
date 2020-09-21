@@ -6,10 +6,8 @@
 
 ## Resources
 
-* 🐙 [Architecture Document](https://www.notion.so/Architecture-Document-57fe0294126c4edb9d40a3dee973da9f)
 * 🐙 [Example: Citrics Product Roadmap](https://www.notion.so/Example-Citrics-Product-Roadmap-32b2dea9721947adb0be9dcc3808acc3)
-* 🐙 [Training Kit GitHub Repo](https://github.com/LambdaSchool/labs-curriculum)
-* 🐙 [Labs Student Guide](https://www.notion.so/lambdaschool/Labs-25-Student-Guide-7be23f8048ca4d2eae69a06f4613f67a)
+* 🐙 [Labs GitHub Repo](https://github.com/LambdaSchool/labs-curriculum)
 
 ----
 
@@ -17,13 +15,12 @@
 
 Here's an overview of our guided project schedule today.
 
-| Time       | Activity                        |
+| <ins>Time</ins>  | <ins>Activity</ins>     |
 | ---------- | ------------------------------- |
-| 09:00      | Review yesterday's key points   |
-| 09:05      | Hiring manager questions        |
-| 09:10      | Speaking about your process     |
-| 09:50      | Going over the inquiry          |
-| 09:55      | End                             |
+| 05 mins      | **Reviewing key takeaways**   |
+| 05 mins      | **Hiring manager questions**        |
+| 40 mins      | **Speaking about your process**     |
+| 05 mins      | **Going over the inquiry**          |
 
 ## Purpose
 
@@ -33,9 +30,11 @@ Recontextualizing your user architecture breakdown as an exercise in interview p
 
 ## Lesson
 
+Your instructor will accompany you through an IWY loop (I do, We do, You do) in today's guided project. Here's what to expect:
+
 ### *I Do*
 
-#### Review takeaways from yesterday's guided project
+#### Reviewing key takeaways
 
 * Your instructor takes a few minutes to review the key points and takeaways from our previous guided project on engineering.
 
@@ -63,4 +62,4 @@ Recontextualizing your user architecture breakdown as an exercise in interview p
 
 ## After Class
 
-Take a few minutes to review the principles you've learned. What questions do you still have? Remember, your instructor, TL, and Labs Support Hours are here to help. Don't hesitate to reach out.
+Take a few minutes to review the principles you've learned. What questions do you still have? Remember, your instructors, TPLs, and Labs Support Hours are here to help. Don't hesitate to reach out.

@@ -1,4 +1,4 @@
-# Guided Project: Plan Critique
+# Guided Project: Plan Critique and Power Statements
 
 ## Objectives
 
@@ -7,8 +7,7 @@
 ## Resources
 
 * 🐙 Brush up on power statements in the [Resume and LinkedIn Fundamentals](https://learn.lambdaschool.com/cr/module/recQUR9bWxvLBJknr) lesson.
-* 🐙 [Training Kit GitHub Repo](https://github.com/LambdaSchool/labs-curriculum)
-* 🐙 [Labs Student Guide](https://www.notion.so/lambdaschool/Labs-25-Student-Guide-7be23f8048ca4d2eae69a06f4613f67a)
+* 🐙 [Labs GitHub Repo](https://github.com/LambdaSchool/labs-curriculum)
 
 ----
 
@@ -16,14 +15,13 @@
 
 Here's an overview of our guided project schedule today.
 
-| Time       | Activity                        |
+| <ins>Time</ins>  | <ins>Activity</ins>     |
 | ---------- | ------------------------------- |
-| 09:00      | Review yesterday's key points   |
-| 09:05      | Student Trello board review     |
-| 09:35      | Hiring manager questions        |
-| 09:40      | Speaking about your process     |
-| 09:50      | Going over the inquiry          |
-| 09:55      | End                             |
+| 05 mins      | **Reviewing key takeaways**   |
+| 30 mins      | **Student Trello board review**    |
+| 05 mins      | **Hiring manager questions**        |
+| 10 mins      | **Speaking about your process**     |
+| 05 mins      | **Going over the inquiry**          |
 
 ## Purpose
 
@@ -33,9 +31,11 @@ Recontextualizing your user story task breakdowns as an exercise in interview pr
 
 ## Lesson
 
+Your instructor will accompany you through an IWY loop (I do, We do, You do) in today's guided project. Here's what to expect:
+
 ### *I Do*
 
-#### Review takeaways from yesterday's guided project
+#### Reviewing key takeaways
 
 * Your instructor takes a few minutes to review the key points and takeaways from our guided project on user stories and planning.
 
@@ -51,11 +51,14 @@ Recontextualizing your user story task breakdowns as an exercise in interview pr
 
 #### Speaking about your process
 
-* Your instructor and a Career Specialist use a student Trello board to create several resume power statements and conduct a mock interview:
+* Your Career Specialist reiterates what constitutes a power statement.
+* Your instructor and a Career Specialist encourage you to write up a few bullet points detailing your own process breakdown.
+* In front of the class, your instructor uses the content in a student Trello board to create several resume power statements with the Career Specialist, asking a number of questions:
+  * "Describe a project you worked on?"
   * "How did you break down your tasks? What aspects of the project did you have clear ownership of?"
   * "How did you divide up work to deliver on time?"
   * "What were the results or outcomes of dividing the project the way the team did? Was this process effective?"
-* Your instructor conducts this interview in front of the class and the Career Specialist reiterates what makes a power statement. Your instructor may also use some student-curated questions. You're encouraged to write your own questions based on your task breakdown.
+* Your instructor may also use some student-curated questions. Don't forget to write your own questions based on your task breakdown.
 
 ### *You Do*
 
@@ -67,4 +70,4 @@ Recontextualizing your user story task breakdowns as an exercise in interview pr
 
 ## After Class
 
-Take a few minutes to review the principles you've learned. What questions do you still have? Remember, your instructor, TL, and Labs Support Hours are here to help. Don't hesitate to reach out.
+Take a few minutes to review the principles you've learned. What questions do you still have? Remember, your instructors, TPLs, and Labs Support Hours are here to help. Don't hesitate to reach out.

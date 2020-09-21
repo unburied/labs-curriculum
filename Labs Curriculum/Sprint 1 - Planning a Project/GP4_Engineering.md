@@ -6,10 +6,8 @@
 
 ## Resources
 
-* 🐙 [Architecture Document](https://www.notion.so/Architecture-Document-57fe0294126c4edb9d40a3dee973da9f)
 * 🐙 [Example: Citrics Product Roadmap](https://www.notion.so/Example-Citrics-Product-Roadmap-32b2dea9721947adb0be9dcc3808acc3)
-* 🐙 [Training Kit GitHub Repo](https://github.com/LambdaSchool/labs-curriculum)
-* 🐙 [Labs Student Guide](https://www.notion.so/lambdaschool/Labs-25-Student-Guide-7be23f8048ca4d2eae69a06f4613f67a)
+* 🐙 [Labs GitHub Repo](https://github.com/LambdaSchool/labs-curriculum)
 
 ----
 
@@ -17,15 +15,15 @@
 
 Here's an overview of our guided project schedule today.
 
-| Time       | Activity                         |
+| <ins>Time</ins>  | <ins>Activity</ins>     |
 | ---------- | -------------------------------  |
-| 09:00      | What's an architecture breakdown?|
-| 09:02      | Reviewing product requirements   |
-| 09:07      | High-level architecture          |
-| 09:27      | Technical details                |
-| 09:42      | Data model                       |
-| 09:58      | Working as a team                |
-| 10:00      | End                              |
+| 02 mins      | **What's an architecture breakdown?**|
+| 05 mins      | **Reviewing product requirements**   |
+| 20 mins      | **High-level architecture**          |
+| 15 mins      | **Technical details**                |
+| 10 mins      | **API Contracts**               |
+| 20 mins      | **Data model**                       |
+| 02 mins      | **Working as a team**                |
 
 ## Purpose
 
@@ -35,9 +33,11 @@ A top-level concept of the system's required functions is broken down into sub-f
 
 ## Lesson
 
+Your instructor will accompany you through an IWY loop (I do, We do, You do) in today's guided project. Here's what to expect:
+
 ### *I Do*
 
-#### What is an architecture breakdown?
+#### What's an architecture breakdown?
 
 * Your instructor discusses the mechanics of an architecture breakdown, its utility, and what you'll be accomplishing.
 
@@ -55,6 +55,10 @@ A top-level concept of the system's required functions is broken down into sub-f
 
 * Your instructor walks you through the frameworks and libraries to use. Constraints, standards, site management, and scaffolding will also be discussed.
 
+#### API Contracts
+
+* Your instructor discusses what it means to put together an API contract, then models how to diagram your resources and determine what operations will be available for those resources.
+
 #### Data model
 
 * Your instructor will identify models, discuss normalization, and create a database schema for the product.
@@ -69,4 +73,4 @@ A top-level concept of the system's required functions is broken down into sub-f
 
 ## After Class
 
-Take a few minutes to review the principles you've learned. What questions do you still have? Remember, your instructor, TL, and Labs Support Hours are here to help. Don't hesitate to reach out.
+Take a few minutes to review the principles you've learned. What questions do you still have? Remember, your instructors, TPLs, and Labs Support Hours are here to help. Don't hesitate to reach out.
