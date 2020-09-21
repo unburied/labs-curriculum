@@ -5,6 +5,15 @@
 * Student can articulate the overall process, challenges, and lessons learned from delivering product features in a team environment.
 * Student can formally present, in detail, their specific technical contribution to the project.
 
+## Hiring Manager Inspiration
+Here are some quotes from hiring managers about presenting work:
+
+"We’re looking for candidates with evidence of strong writing/communication skills, having created multiple projects during their education that are thoughtfully displayed in some way (blog, github, anything) and personal passion from them about our company/mission."
+
+"We’re looking for candidates with a learning mindset and enthusiasm for sharing knowledge and interests."
+
+"We love to see passion and a desire to continue learning, to work with cool technologies, to fill gaps in their knowledge."
+
 ## Prompt 1 - Curating your blog
 
 This week, you spent your inquiries writing sections of a blog post. For your sprint challenge, go through your entire blog post, make any necessary edits, and publish it. Your blog post should include:
