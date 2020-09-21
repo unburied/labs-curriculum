@@ -6,8 +6,7 @@
 
 ## Resources
 
-* 🐙 [Training Kit GitHub Repo](https://github.com/LambdaSchool/labs-curriculum)
-* 🐙 [Labs Student Guide](https://www.notion.so/lambdaschool/Labs-25-Student-Guide-7be23f8048ca4d2eae69a06f4613f67a)
+* 🐙 [Labs GitHub Repo](https://github.com/LambdaSchool/labs-curriculum)
 
 ----
 
@@ -15,16 +14,15 @@
 
 Here's an overview of our guided project schedule today.
 
-| Time       | Activity                         |
+| <ins>Time</ins>  | <ins>Activity</ins>     |
 | ---------- | -------------------------------  |
-| 10:00      | Why is version control important?|
-| 10:05      | GitHub workflow                  |
-| 10:15      | Writing a good pull request      |
-| 10:25      | Creating a pull request          |
-| 10:45      | Reviewing a pull request         |
-| 10:55      | Breakout room PR review          |
-| 11:10      | Reviewing the reviews            |
-| 11:20      | End                              |
+| 05 mins      | **Why is version control important?**|
+| 10 mins      | **GitHub workflow**                  |
+| 10 mins      | **Writing a good pull request**      |
+| 20 mins      | **Creating a pull request**          |
+| 10 mins      | **Reviewing a pull request**         |
+| 15 mins      | **Breakout room PR review**          |
+| 10 mins      | **Reviewing the reviews**            |
 
 ## Purpose
 
@@ -33,6 +31,8 @@ Useful as it is for the individual, a version control system becomes even more e
 On a team, your level of professionalism in a GitHub workflow (something you're all quite familiar with by now) can impact your teammates efficiency and the forward momentum of your product's development. It's not just you playing in your sandbox anymore -- sloppy process has consequences.
 
 ## Lesson
+
+Your instructor will accompany you through an IWY loop (I do, We do, You do) in today's guided project. Here's what to expect:
 
 ### *I Do*
 
@@ -72,4 +72,4 @@ On a team, your level of professionalism in a GitHub workflow (something you're 
 
 ## After Class
 
-Take a few minutes to review the principles you've learned. What questions do you still have? Remember, your instructor, TL, and Labs Support Hours are here to help. Don't hesitate to reach out.
+Take a few minutes to review the principles you've learned. What questions do you still have? Remember, your instructors, TPLs, and Labs Support Hours are here to help. Don't hesitate to reach out.

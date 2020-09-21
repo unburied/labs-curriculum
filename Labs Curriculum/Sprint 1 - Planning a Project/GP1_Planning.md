@@ -7,8 +7,7 @@
 ## Resources
 
 * 🐙 [Blank Trello Board](https://trello.com/b/aE7YSd3b/project-management)
-* 🐙 [Training Kit GitHub Repo](https://github.com/LambdaSchool/labs-curriculum)
-* 🐙 [Labs Student Guide](https://www.notion.so/lambdaschool/Labs-25-Student-Guide-7be23f8048ca4d2eae69a06f4613f67a)
+* 🐙 [Labs GitHub Repo](https://github.com/LambdaSchool/labs-curriculum)
 
 ----
 
@@ -16,17 +15,16 @@
 
 Here's an overview of our guided project schedule today.
 
-| Time       | Activity                        |
+| <ins>Time</ins>  | <ins>Activity</ins>                        |
 | ---------- | ------------------------------- |
-| 10:00      | What is a user story?           |
-| 10:02      | Walk through an application     |
-| 10:05      | Student explores an application |
-| 10:15      | Feedback on student examples    |
-| 10:20      | Demonstrate roadmap break down  |
-| 10:25      | Adding list of technical tasks  |
-| 10:40      | Breakout Room - User Story tasks|
-| 10:55      | Feedback on student examples    |
-| 11:00      | End                             |
+| 02 mins     | **What is a user story?**           |
+| 03 mins     | **Walk through an application**     |
+| 10 mins    | **Student explores an application** |
+| 05 mins     | **Feedback on student examples**    |
+| 05 mins     | **Demonstrate roadmap break down**  |
+| 15 mins    | **Adding list of technical tasks**  |
+| 15 mins    | **Breakout Room - User Story tasks**|
+| 05 mins     | **Feedback on student examples**    |
 
 ## Purpose
 
@@ -83,4 +81,4 @@ Your instructor will accompany you through an IWY loop (I do, We do, You do) in 
 
 ## After Class
 
-Take a few minutes to review the principles you've learned. What questions do you still have? Remember, your instructor, TL, and Labs Support Hours are here to help. Don't hesitate to reach out.
+Take a few minutes to review the principles you've learned. What questions do you still have? Remember, your instructors, TPLs, and Labs Support Hours are here to help. Don't hesitate to reach out.
