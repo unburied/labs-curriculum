@@ -10,7 +10,5 @@ Your module inquiries this week will be prompting you toward composing different
     - The problem you're trying to solve
     - The product you worked on that solves that problem
     - Any fears/concerns you had going into the experience
-3. Next, write a paragraph on how you broke down your product roadmap into shippable tasks. You should include:
-    - An overview of how you went about breaking down your roadmap into tasks
-    - A screenshot of a Trello card that shows an individual task you worked on
-    - A description accompanying the Trello card, detailing its significance
+    - Any screenshots of the organization.
+
