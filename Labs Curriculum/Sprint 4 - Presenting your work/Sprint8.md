@@ -20,7 +20,7 @@ You can either edit your old blog from sprint 4 OR create an new blog. The edite
 
 - a paragraph on the background of the product + organization
 - a paragraph on recent technical challenges including code snippets
-- a pargraph reflecting on your labs experience
+- a paragraph reflecting on your labs experience
 
 Submit a link to your blog.
 
