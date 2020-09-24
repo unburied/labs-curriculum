@@ -6,8 +6,7 @@
 
 ## Resources
 
-* 🐙 [Training Kit GitHub Repo](https://github.com/LambdaSchool/labs-curriculum)
-* 🐙 [Labs Student Guide](https://www.notion.so/lambdaschool/Labs-25-Student-Guide-7be23f8048ca4d2eae69a06f4613f67a)
+* 🐙 [Labs GitHub Repo](https://github.com/LambdaSchool/labs-curriculum)
 
 ----
 
@@ -15,15 +14,14 @@
 
 Here's an overview of our guided project schedule today.
 
-| Time       | Activity                        |
+| <ins>Time</ins>  | <ins>Activity</ins>     |
 | ---------- | ------------------------------- |
-| 10:00      | What is pair programming?       |
-| 10:05      | Live pair programming           |
-| 10:15      | Pair programming feedback       |
-| 10:25      | Reviewing feedback              |
-| 10:35      | Instructor/student pair session |
-| 10:45      | Instructor/student feedback     |
-| 10:50      | End                             |
+| 05 mins      | **What is pair programming?**       |
+| 10 mins      | **Live pair programming**           |
+| 10 mins      | **Pair programming feedback**       |
+| 10 mins     | **Reviewing feedback**              |
+| 10 mins      | **Instructor/student pair session** |
+| 05 mins      | **Instructor/student feedback**     |
 
 ## Purpose
 
@@ -32,6 +30,8 @@ Pair programming involves two programmers working together at one station: the d
 In addition to reviewing the code as it's written, the navigator also considers the strategic direction of the work, coming up with ideas for improvement and anticipating potential future problems. The objective of pair programming is to free the driver to focus their attention solely on completing the task itself, relying on the navigator as a safety net and guide.
 
 ## Lesson
+
+Your instructor will accompany you through an IWY loop (I do, We do, You do) in today's guided project. Here's what to expect:
 
 ### *I Do*
 
@@ -55,7 +55,7 @@ In addition to reviewing the code as it's written, the navigator also considers 
 
 #### Instructor/student pairing session
 
-* Your instructor invites a student volunteer to replace an engineering manager in the role of navigator. The student and instructor demonstrate another pairing session for the class (with the instructor driving). They create a pull request together.
+* Your instructor invites a TPL volunteer to replace an engineering manager in the role of navigator. The TPL and instructor demonstrate another pairing session for the class (with the instructor driving) and write out the steps to solving the problem.
 
 ### *You Do*
 
@@ -67,4 +67,4 @@ In addition to reviewing the code as it's written, the navigator also considers 
 
 ## After Class
 
-Take a few minutes to review the principles you've learned. What questions do you still have? Remember, your instructor, TL, and Labs Support Hours are here to help. Don't hesitate to reach out.
+Take a few minutes to review the principles you've learned. What questions do you still have? Remember, your instructors, TPLs, and Labs Support Hours are here to help. Don't hesitate to reach out.
