@@ -1,5 +1,7 @@
 # Sprint Challenge: Sprint 2
 
+When you submit your link, make sure the permissions to your Google Doc are open so we can access your Sprint Challenge!
+
 ## Objectives
 
 - Student can articulate their delivery process in contributing to and completing individual tasks.

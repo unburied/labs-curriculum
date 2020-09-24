@@ -1,5 +1,7 @@
 # Sprint Challenge: Sprint 1
 
+When you submit your link, make sure the permissions to your Google Doc are open so we can access your Sprint Challenge!
+
 ## Objectives
 
 - Student can articulate breaking down a release into individual tasks.

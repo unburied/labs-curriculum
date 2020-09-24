@@ -56,7 +56,7 @@ Your instructor will accompany you through an IWY loop (I do, We do, You do) in 
 
 #### Going over the inquiry
 
-* Your instructor discusses the inquiry questions and what you should focus on in the afternoon.
+* Your instructor discusses the inquiry questions and what you should be focusing on.
 
 ----
 

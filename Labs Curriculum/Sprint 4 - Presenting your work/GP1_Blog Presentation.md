@@ -7,8 +7,7 @@
 
 ## Resources
 
-* 🐙 [Training Kit GitHub Repo](https://github.com/LambdaSchool/labs-curriculum)
-* 🐙 [Labs Student Guide](https://www.notion.so/lambdaschool/Labs-25-Student-Guide-7be23f8048ca4d2eae69a06f4613f67a)
+* 🐙 [Labs GitHub Repo](https://github.com/LambdaSchool/labs-curriculum)
 
 ----
 
@@ -16,13 +15,12 @@
 
 Here's an overview of our guided project schedule today.
 
-| Time       | Activity                        |
+| <ins>Time</ins>  | <ins>Activity</ins>     |
 | ---------- | ------------------------------- |
-| 09:00      | Why present your work?          |
-| 09:05      | Blog post example               |
-| 09:20      | Find your favorite blog         |
-| 09:30      | Your tasks                      |
-| 09:35      | End                             |
+| 05 mins      | **Why present your work?**          |
+| 15 mins      | **Blog post example**               |
+| 10 mins     | **Find your favorite blog**         |
+| 05 mins      | **Your tasks**                      |
 
 ## Purpose
 
@@ -33,6 +31,8 @@ A well-crafted blog post can enhance your visibility and signal to hiring manage
 Put yourself out there! They can't find you if you're not out there.
 
 ## Lesson
+
+Your instructor will accompany you through an IWY loop (I do, We do, You do) in today's guided project. Here's what to expect:
 
 ### *I Do*
 
@@ -54,10 +54,10 @@ Put yourself out there! They can't find you if you're not out there.
 
 #### Your tasks
 
-* Your instructor and Career Specialist go over what you will deliver this week (your module inquiries, sprint challenge, etc) and ask you to set up a Medium account.
+* Your instructor goes over what you will deliver this sprint (your module inquiries, sprint challenge, etc.) and asks you to set up a Medium account.
 
 ----
 
 ## After Class
 
-Take a few minutes to review the principles you've learned. What questions do you still have? Remember, your instructor, TL, and Labs Support Hours are here to help. Don't hesitate to reach out.
+Take a few minutes to review the principles you've learned. What questions do you still have? Remember, your instructors, TPLs, and Labs Support Hours are here to help. Don't hesitate to reach out.
