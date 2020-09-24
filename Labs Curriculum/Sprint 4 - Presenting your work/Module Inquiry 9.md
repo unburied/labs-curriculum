@@ -10,5 +10,5 @@ This will be the second part of your blog post. Continue drafting it in Medium.
     - Pick a specific technical challenge.
         - How did you discover this problem?
         - How did you overcome it? Include relevant code snippets.
-    - An overview of any other challenges the team faced and how you contributed.
+    - Add screenshots of code and gifs of what that code does.
   
