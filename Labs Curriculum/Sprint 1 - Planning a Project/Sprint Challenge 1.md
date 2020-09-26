@@ -5,8 +5,8 @@ When you submit your link, make sure the permissions to your Google Doc are open
 ## Objectives
 
 - Student can articulate breaking down a release into individual tasks.
-- Student can accurately defend scope or timeline of an individual task
-- Students will be able to articulate tradeoffs for architectural and design decisions
+- Student can accurately defend the scope or timeline of an individual task.
+- Student can articulate tradeoffs for architectural and design decisions.
 
 ## Prompt 1 - Communicating Process
 

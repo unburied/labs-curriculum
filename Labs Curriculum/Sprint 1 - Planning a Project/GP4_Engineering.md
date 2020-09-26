@@ -2,7 +2,7 @@
 
 ## Objectives
 
-* Student will be able to articulate tradeoffs for architectural and design decisions.
+* Student can articulate tradeoffs for architectural and design decisions.
 
 ## Resources
 
