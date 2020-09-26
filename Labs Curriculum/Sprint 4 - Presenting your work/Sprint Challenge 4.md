@@ -8,6 +8,7 @@ When you submit your link, make sure the permissions to your Google Doc are open
 - Student can formally present, in detail, their specific technical contribution to the project.
 
 ## Hiring Manager Inspiration
+
 Here are some quotes from hiring managers about presenting work:
 
 "We’re looking for candidates with evidence of strong writing/communication skills, having created multiple projects during their education that are thoughtfully displayed in some way (blog, github, anything) and personal passion from them about our company/mission."

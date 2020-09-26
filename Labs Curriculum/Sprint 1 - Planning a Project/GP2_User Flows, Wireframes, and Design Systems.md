@@ -2,7 +2,7 @@
 
 ## Objectives
 
-* Student will be able to create user flows, wireframes, and make simple styles choices appropriate for their app.
+* Student will be able to create user flows, wireframes, and make simple style choices appropriate for their app.
 
 ## Resources
 
