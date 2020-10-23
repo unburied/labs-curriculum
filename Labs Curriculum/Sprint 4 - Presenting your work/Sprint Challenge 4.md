@@ -39,4 +39,6 @@ You just wrote something awesome! Time to share it with the world. If you'd like
 
 ## Prompt 3 - Submit a screenshot of your ISA Quiz score
 
-You took a quiz this week during the ISA Education guided practice. Please submit a screenshot of your score.
+Take this ISA quiz: https://my.lambdaschool.com/isa/quiz
+
+Please submit a screenshot of your score.

@@ -22,7 +22,7 @@ We took these questions and cooked them into your labs experience. Please answer
 
 1. Describe your **process** of breaking release 2 into user stories. What changed from release 1? What conversations did you have with your team to determine release 2 features?
 2. Choose a user story from release 2. Describe your **reasoning** as you broke down that particular user story into individual tasks.
-3. Choose a user story from release 1 that you worked on. How long did it take to ship? Did it take longer than expected? Why / Why not? 
+3. Choose a user story from release 1 that you worked on. How long did it take to ship? Did it take longer than expected? Why / Why not?
 
 ## Prompt 2 - Communicating Technical Decisions
 
@@ -39,8 +39,6 @@ These sorts of questions inform your entire labs experience. You made a few tech
 2. What are some of the risks given the decision you made?
 3. Given the architecture you decided on in sprint 1, what challenges arose? Did you foresee these challenges?
 
-## Prompt 3 - Professional Development 
+## Prompt 3 - Professional Development
 
 Update your Linkedin projects section with more detail as to what you contributed on this project. Link your Linkedin here.
-
-## [Sprint Challenge Rubric](https://www.notion.so/863354e030274baf99983cfee357d4d1)

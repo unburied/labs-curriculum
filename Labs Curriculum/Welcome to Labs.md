@@ -97,16 +97,3 @@ You won't be developing some pointless "toy app" for the sake of a learning exer
 You’ll demonstrate your ability to ideate, plan, collaborate, and deliver value for the organizations that will ultimately hire you: building, modeling, or designing projects that fill a genuine need for real users.
 
 We do not believe in busywork; we believe that all of you can contribute as active, responsible, engaged tech citizens — and we want that to start in Labs.
-
-Here are a few examples of projects Lambda School students have built in the past:
-
-- [MyHouse](https://lambdaschool.com/lab-demos/myhouse)
-- [Neral Social App](https://lambdaschool.com/lab-demos/neral-social-app)
-- [GeoChat](https://lambdaschool.com/lab-demos/geochat)
-- [Firefly](https://lambdaschool.com/lab-demos/firefly)
-- [EmPact](https://lambdaschool.com/lab-demos/empact)
-- [RxID](https://lambdaschool.com/lab-demos/rxid)
-- [TrainingBot 2.0](https://lambdaschool.com/lab-demos/trainingbot-2-0)
-- [WellBroomed](https://lambdaschool.com/lab-demos/wellbroomed)
-- [Stock.ly](https://lambdaschool.com/lab-demos/stock-ly)
-- [Ride for Safe Life](https://lambdaschool.com/lab-demos/ride-for-safe-life)

@@ -97,5 +97,3 @@ Here's the checklist you'll want to complete for projects:
 - [ ]  **Did not** use the words "capstone" "Lambda Labs" or "School" project
 
 ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/18ad1d52-5679-4f4e-80bc-aa0341034f93/Untitled.png](https://tk-assets.lambdaschool.com/4f07d726-0a78-4014-82f4-dd56a02f21bc_Untitled2.png)
-
-## [Sprint Challenge Rubric](https://www.notion.so/863354e030274baf99983cfee357d4d1)
