@@ -64,8 +64,6 @@ To ensure you are creating a robust and ready to use job search resume, use this
 
 **Your submission for Prompt 3 should be a link to your resume**
 
-## [Sprint Challenge Rubric](https://www.notion.so/1f9fa8ec9c4b4453a3fb21b60cc5352c)
-
 ## Additional Resources
 
 - [How to Respond to Interview Questions About Teamwork](https://www.thebalancecareers.com/how-to-respond-to-interview-questions-about-teamwork-2061100)
