@@ -1,0 +1,32 @@
+outcome_name,1,2,3
+Student can articulate tradeoffs for architectural and design decisions.,"Student can identify a technical decision they made, but cannot provide credible context (what led them to the choice, risks, challenges) for why they made it.
+
+Student answers lack the specificity articulated in a 2.","Student mentions a specific technical decision and the process as to how they arrived there. Student mentions at least one specific conversation and/or difference of opinion within in their team regarding the technical decision.
+
+Student describes the risk and challenges of a technical decision. Student mentions at least two benefits and at least one drawback to the decision that was made.
+
+Student describes an architecture decision and at least one specific technical challenge they foresee with that decision with proper evidence.",Student describes their process expertly and articulately. Student answers demonstrate professionalism and composure as they would in an interview. All answers are succinct and coherent.
+Student can effectively describe their key learnings and experiences in writing (LinkedIn Review),"Photos are missing or depict unprofessional imagery (vulgar language, drinking/drug use, goofy faces, political content, etc.). Headline is irrelevant or contains spelling errors.
+
+Personal summary is unrelated to their technical track, and/or contains multiple grammatical errors.
+
+Prior experience is missing, or only lists company/title with no description of prior roles..","Prior experience is complete and highlights bulleted accomplishments from past roles.
+
+Student has a photo of themselves; attire and background is appropriate, photo is smiling or neutral. Cover photo is work-appropriate. Headline is concise, relevant, with no errors.
+
+Personal summary clearly states career goals, and is concise, clear, and error free.","Student not only meets the written requirements for the LinkedIn, but is also able to articulate exceptionally well their personal story in the TL interview setting."
+"Student can effectively describe their key learnings and experiences in writing (LinkedIn sections: Skills, Projects and Education)","Skills section does not include track related skills or is not included.
+
+Projects missing details or not listed at all.
+
+Education does not include Lambda School.","Skills section includes all relevant track related skills, and tech stack.
+
+At least 2 projects are included with descriptions, list of tech skills used, and links to GitHub repo and portfolio.
+
+Lambda School is listed, along with other schools if applicable.","Skills section includes all relevant track related skills, soft skills, and tech stack, with three strongest skills pinned, and endorsements for each skill.
+
+3+ projects, if not all projects (including personal projects completed outside of Lambda School), included with descriptions, list of tech skills used, and links to GitHub repo and portfolio.
+
+Lambda School and all other schools listed, including dates and certificates, as well as summaries of coursework completed."
+Student will be able to articulate breaking down a release into individual tasks and accurately defend the scope/timeline of a given task.,"Student is unable to describe a coherent process. Student's user story examples are inadequate, under-developed, or fail to identify all tasks necessary to ship. Student is unable to articulate their justification for the timeline/scope of a given task. Student answers lack the specificity articulated in a 2.","Student accurately describes the process from release to user stories. When showing this, they talk specific stakeholder conversations and how the prioritized user stories. They also talked about specific team conversations during the trello planning phase.
+Student shows some of the user stories. Student picks a user story and lays out the individual tasks necessary to ship that user story. When showcasing the tasks, it is easy to follow and there is specificity in each task.Student describes the process as to how they properly estimated the time that user story would take to ship. Student details out all the steps it would take to ship, where they might encounter bugs, deployment issues, etc.",Student describes their process expertly and articulately. Student answers demonstrates professionalism and composure like they would in an interview. All answers are succinct and coherent.
